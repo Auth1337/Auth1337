@@ -1,3 +1,4 @@
+```py
 from GitHub.KaramveerPlayZ import Readme
 
 class KaramveerPlayZ(Readme):
@@ -9,3 +10,4 @@ class KaramveerPlayZ(Readme):
       self.age = 16
       self.discord = "KaramveerPlayZ#1337"
       self.location = "Mars"
+```
