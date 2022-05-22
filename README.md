@@ -1,16 +1,11 @@
-### Hi there 👋
+from GitHub.KaramveerPlayZ import Readme
 
-<!--
-**KaramveerPlayZ/KaramveerPlayZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class KaramveerPlayZ(Readme):
+    "https://GitHub.com/KaramveerPlayZ/KaramveerPlayZ/README.md"
+    def __init__(self):
+      self.name = "KaramveerPlayZ"
+      self.mail = "karamveerplayz1337@protonmail.com"
+      self.discord_server = "https://discord.gg/lgnop"
+      self.age = 16
+      self.discord = "KaramveerPlayZ#1337"
+      self.location = "Mars"
