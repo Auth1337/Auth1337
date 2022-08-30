@@ -1,14 +1,12 @@
 ```py
-from GitHub.KaramveerPlayZ import Readme
+from GitHub import Readme
 
-class KaramveerPlayZ(Readme):
-    "https://GitHub.com/KaramveerPlayZ/KaramveerPlayZ/README.md"
+class Auth(Readme):
+    "https://GitHub.com/Auth1337/Auth/README.md"
     def __init__(self):
-      self.name = "KaramveerPlayZ"
-      self.real_name = "Ritesh Chopra"
-      self.mail = "karamveerplayz1337@protonmail.com"
-      self.discord_server = "https://discord.gg/spylodepe"
+      self.name = "Auth"
+      self.contact = "https://discord.gg/lgnop"
       self.age = 16
-      self.discord = "KaramveerPlayZ#1337"
-      self.location = "Mars"
+      self.discord = "Auth#1337"
+      self.location = "Venus"
 ```
