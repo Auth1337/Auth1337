@@ -6,7 +6,7 @@ class Auth(Readme):
     def __init__(self):
       self.name = "Auth"
       self.contact = "https://discord.gg/lgnop"
-      self.age = 16
+      self.age = 17
       self.discord = "Auth#1337"
-      self.location = "Venus"
+      self.location = "China"
 ```
